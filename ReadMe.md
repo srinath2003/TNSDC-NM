@@ -32,25 +32,23 @@ The solution involves implementing a deep learning model, specifically a feedfor
 ## Repository Structure
 - **README.md**: Overview of the project, including problem statement, solution approach, and implementation steps.
 - **UrbanSound8K/**: Directory for storing the UrbanSound8K dataset and related data.
-- **src/**: Source code directory containing Python scripts for data preprocessing, model implementation, training, and evaluation.
 
 ## Usage
 1. **Clone the Repository**: 
    - Clone this repository to your local machine:
      ```
-     git clone https://github.com/your-username/urban-sound-classification.git
+     git clone https://github.com/srinath2003/tnsdc-genAI
      ```
 2. **Install Dependencies**: 
    - Install the necessary Python packages listed in requirements.txt.
 3. **Download the Dataset**: 
    - Download the UrbanSound8K dataset from the provided link and place it in the `UrbanSound8K` directory.
 4. **Run the Code**: 
-   - Use the provided scripts in the `src/` directory to preprocess data, train the model, and evaluate its performance.
+   - Use the provided scripts  to preprocess data, train the model, and evaluate its performance.
    - Experiment with different configurations and parameters to optimize the model.
 
 ## Contributors
-- [Your Name]
+- Srinath R
 
 ## Demo Link
 [Link to Demo](https://drive.google.com/drive/folders/1Fjij9vftCV-lt0A8gk2SI-6kHnub1jEY)
-
