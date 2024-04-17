@@ -40,7 +40,7 @@ The solution involves implementing a deep learning model, specifically a feedfor
      git clone https://github.com/srinath2003/tnsdc-genAI
      ```
 2. **Install Dependencies**: 
-   - Install the necessary Python packages listed in requirements.txt.
+   - Install the necessary Python packages .
 3. **Download the Dataset**: 
    - Download the UrbanSound8K dataset from the provided link and place it in the `UrbanSound8K` directory.
 4. **Run the Code**: 
