@@ -50,5 +50,4 @@ The solution involves implementing a deep learning model, specifically a feedfor
 ## Contributors
 - Srinath R
 
-## Demo Link
-[Link to Demo](https://drive.google.com/drive/folders/1Fjij9vftCV-lt0A8gk2SI-6kHnub1jEY)
+
